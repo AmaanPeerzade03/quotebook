@@ -1,3 +1,7 @@
 1) "Strength through Struggle"
 2 I LIKE WHAT I DO 
+<<<<<<< HEAD
 3) LIVE AND LET LIVE
+=======
+3) LIVE AND LONG LIVE
+>>>>>>> personal_color
